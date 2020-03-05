@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ExplorerZubkov\bin\Debug\ExplorerZubkov.exe.config
+C:\Users\Admin\source\repos\ExplorerZubkov\bin\Debug\ExplorerZubkov.exe
+C:\Users\Admin\source\repos\ExplorerZubkov\bin\Debug\ExplorerZubkov.pdb
+C:\Users\Admin\source\repos\ExplorerZubkov\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\source\repos\ExplorerZubkov\bin\Debug\MetroFramework.dll
+C:\Users\Admin\source\repos\ExplorerZubkov\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\source\repos\ExplorerZubkov\obj\Debug\ExplorerZubkov.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ExplorerZubkov\obj\Debug\ExplorerZubkov.Form1.resources
+C:\Users\Admin\source\repos\ExplorerZubkov\obj\Debug\ExplorerZubkov.Properties.Resources.resources
+C:\Users\Admin\source\repos\ExplorerZubkov\obj\Debug\ExplorerZubkov.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ExplorerZubkov\obj\Debug\ExplorerZubkov.csproj.CopyComplete
+C:\Users\Admin\source\repos\ExplorerZubkov\obj\Debug\ExplorerZubkov.exe
+C:\Users\Admin\source\repos\ExplorerZubkov\obj\Debug\ExplorerZubkov.pdb
