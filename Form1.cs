@@ -16,6 +16,8 @@ namespace ExplorerZubkov
         public Form1()
         {
             InitializeComponent();
+            notifyIcon1.Icon = SystemIcons.Information;
+            notifyIcon1.Click += notifyIcon1_Click;
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -56,6 +58,18 @@ namespace ExplorerZubkov
                 metroTextBox1.Text += '\\';
                 open_page(metroTextBox1.Text);
             }
+        }
+
+        private void notifyIcon1_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Normal;
+            this.Show();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = true;
+            this.Hide();
         }
     }
 }
